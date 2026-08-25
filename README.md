@@ -1,52 +1,38 @@
-# Hi there, I'm Suyesh Shinde 👋
-### 🤖 CSE (Artificial Intelligence & Machine Learning)
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=false&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Building+AI+Models+%26+Computer+Vision+Apps;Data+Driven+Problem+Solving;B.Tech+CSE+(AI+%26+ML))
+# ⚡ SUYESH SHINDE ⚡
+### 🤖 `AI & MACHINE LEARNING ARCHITECT` | `NEURAL NETWORKS & DEEP LEARNING`
 
----
+<a href="https://github.com/suyeshshinde2335-ai">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk AI Core"/>
+</a>
 
-### 🧠 About Me
+<br><br>
 
-- 🎓 **Field:** Computer Science & Engineering (AI & ML)
-- 🔭 **Focus:** Machine Learning, Deep Learning, Neural Networks & Computer Vision
-- 💡 **Interests:** Generative AI, Large Language Models (LLMs) & Data Science
-- ⚡ **Goal:** Building intelligent, automated, and scalable AI solutions
+<!-- Typing Dynamic Title -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=INITIATING+NEURAL+PIPELINES...;BUILDING+COMPUTER+VISION+%26+LLM+AGENTS;DATA+DRIVEN+DEEP+LEARNING+ENGINEER;OPTIMIZING+AI+MODELS+FOR+SCALE" alt="Typing SVG" />
+</a>
 
----
+<br><br>
 
-### 🛠️ AI/ML & Tech Stack
+<!-- 3D Style Action Badges -->
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=true" /></a>
+<a href="https://github.com/suyeshshinde2335-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:contact@suyesh.dev"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-**Languages & Core:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br>
-
-**AI, Machine Learning & Data Science:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br>
-
-**Tools & Environments:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### 🧬 SYSTEM CORE & SPECS
 
-[![GitHub](https://img.shields.io/badge/GitHub-suyeshshinde2335--ai-181717?style=flat-square&logo=github)](https://github.com/suyeshshinde2335-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:contact@suyesh.dev)
-
----
+```yaml
+identity: Suyesh Shinde
+role: CSE (Artificial Intelligence & Machine Learning)
+core_focus:
+  - Deep Learning & Neural Network Architectures
+  - Computer Vision & Edge AI Deployment
+  - Large Language Model (LLM) Fine-Tuning
+  - Automated Machine Learning Pipelines (AutoML)
+status: "Training models & solving complex matrix manifolds"
