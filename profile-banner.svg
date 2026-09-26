@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Suyesh Shinde — AI and ML student</title>
+  <desc id="desc">A midnight blue geometric banner with a glowing blue 3D cube and a concise introduction.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset=".58" stop-color="#101f3d"/><stop offset="1" stop-color="#123f68"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".42"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7dd3fc" stop-opacity=".92"/><stop offset="1" stop-color="#2563eb" stop-opacity=".65"/></linearGradient>
+    <linearGradient id="left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb" stop-opacity=".78"/><stop offset="1" stop-color="#0f2c59" stop-opacity=".92"/></linearGradient>
+    <linearGradient id="right" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8" stop-opacity=".72"/><stop offset="1" stop-color="#123b67" stop-opacity=".9"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a5d8ff" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-.4" y="-.4" width="1.8" height="1.9"><feGaussianBlur in="SourceAlpha" stdDeviation="12"/><feOffset dy="12"/><feColorMatrix values="0 0 0 0 0.02 0 0 0 0 0.18 0 0 0 0 0.36 0 0 0 .45 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="955" cy="150" r="230" fill="url(#glow)"/>
+  <path d="M0 252C205 215 330 310 540 258s362-22 660-117" fill="none" stroke="#60a5fa" stroke-opacity=".18" stroke-width="1.5"/>
+  <path d="M0 274C205 237 330 332 540 280s362-22 660-117" fill="none" stroke="#60a5fa" stroke-opacity=".1" stroke-width="1"/>
+  <g fill="#dbeafe" opacity=".8"><circle cx="780" cy="55" r="2"/><circle cx="1090" cy="74" r="2"/><circle cx="735" cy="225" r="1.5"/><circle cx="1120" cy="220" r="1.5"/><circle cx="1014" cy="38" r="1"/></g>
+  <g filter="url(#shadow)" stroke="#a5d8ff" stroke-opacity=".72" stroke-width="1.5" stroke-linejoin="round">
+    <polygon points="930,72 1044,136 930,202 816,136" fill="url(#top)"/>
+    <polygon points="816,136 930,202 930,264 816,198" fill="url(#left)"/>
+    <polygon points="1044,136 930,202 930,264 1044,198" fill="url(#right)"/>
+    <path d="M930 72V135M816 136l114 66 114-66M930 202v62" fill="none" stroke="#e0f2fe" stroke-opacity=".55"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="72" y="82" fill="#7dd3fc" font-size="14" font-weight="700" letter-spacing="3">COMPUTER SCIENCE  /  AI &amp; MACHINE LEARNING</text>
+    <text x="68" y="155" fill="#f8fafc" font-size="54" font-weight="700" letter-spacing="-1.5">Suyesh Shinde</text>
+    <text x="72" y="192" fill="#cbd5e1" font-size="19">B.Tech student · Learning by building · Hackathon enthusiast</text>
+    <rect x="72" y="222" width="292" height="34" rx="17" fill="#0b1c32" stroke="#60a5fa" stroke-opacity=".5"/>
+    <text x="92" y="244" fill="#bae6fd" font-size="12" font-weight="600" letter-spacing="1.2">PYTHON  ·  HTML  ·  CSS  ·  AI/ML</text>
+  </g>
+</svg>
