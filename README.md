@@ -1,49 +1,36 @@
 <div align="center">
-
-# 🌌 ⚡ SUYESH SHINDE ⚡ 🌌
-### 🤖 `B.TECH CSE (ARTIFICIAL INTELLIGENCE & MACHINE LEARNING)` | `NEURAL SYSTEMS ARCHITECT`
-
-<a href="https://github.com/suyeshshinde2335-ai">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" alt="Cyber AI Neural Nexus"/>
-</a>
-
-<br><br>
-
-<!-- Dynamic Animated Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=INITIATING+NEURAL+PIPELINES...;COMPUTER+VISION+%26+DEEP+LEARNING+ENGINEER;TRAINING+TRANSFORMERS+%26+LLM+AGENTS;DATA-DRIVEN+ALGORITHMIC+PROBLEM+SOLVER;TURNING+RAW+DATA+INTO+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<!-- 3D Action Shields -->
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/suyeshshinde2335-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:contact@suyesh.dev"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=suyeshshinde2335-ai&label=NEURAL+MAINFRAME+VISITORS&color=00f0ff&style=for-the-badge" alt="Profile Views"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:172554,100:0EA5E9&height=220&section=header&text=Suyesh%20Shinde&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Navy-to-blue wave banner introducing Suyesh Shinde, AI and ML student" />
+  <br />
+  <a href="https://github.com/suyeshshinde2335-ai/suyesh-portfolio"><img src="https://img.shields.io/badge/Explore%20my-3D%20Portfolio-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my 3D portfolio" /></a>
 </div>
 
----
+## Hi, I'm Suyesh 👋
 
-### 🧬 SYSTEM CORE & ARCHITECT SPECIFICATIONS
+I'm pursuing a **B.Tech in Artificial Intelligence and Machine Learning**. I enjoy turning ideas into projects, learning by building, and meeting new challenges at hackathons.
 
-```yaml
-system_identity:
-  operator: Suyesh Shinde
-  division: Computer Science & Engineering (AI & ML)
-  node_status: Active & Compiling
-  terminal_mode: Production / Research
+### What I'm working on
 
-neural_focus_matrix:
-  primary: Deep Learning, Neural Network Architectures (ANN, CNN, RNN, Transformers)
-  secondary: Computer Vision, Object Segmentation, 3D Point Cloud Processing
-  exploring: Large Language Model Fine-Tuning, Multi-Modal Agents, Generative AI
-  foundations: Advanced Data Structures, Mathematical Optimization, Linear Algebra
+- Learning **Python**, **HTML**, and **CSS**
+- Building projects to strengthen my programming and AI/ML foundations
+- Taking part in hackathons and learning with a team
 
-execution_philosophy:
-  motto: "Precision over complexity; vectorize everything; train to generalize."
+### Tools I'm learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python" />
+  <img src="https://img.shields.io/badge/HTML-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Learning HTML" />
+  <img src="https://img.shields.io/badge/CSS-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Learning CSS" />
+  <img src="https://img.shields.io/badge/GitHub-Building%20in%20public-181717?style=for-the-badge&logo=github&logoColor=white" alt="Building projects on GitHub" />
+</p>
+
+### Featured project
+
+🌐 **[My 3D portfolio](https://github.com/suyeshshinde2335-ai/suyesh-portfolio)** — an interactive portfolio website introducing me and my work.
+
+### Let's connect
+
+Have a project idea or a hackathon coming up? [Find me on GitHub](https://github.com/suyeshshinde2335-ai) — I'm always glad to learn and build with others.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:172554,100:0B1020&height=100&section=footer" width="100%" alt="Blue wave footer" />
+</div>
